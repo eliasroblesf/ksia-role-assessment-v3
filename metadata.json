@@ -1,0 +1,8 @@
+{
+  "name": "Remix KSIA Fire \u0026 ERT Team Creation v3",
+  "description": "KSIA Fire \u0026 ERT Team Creation by personality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
